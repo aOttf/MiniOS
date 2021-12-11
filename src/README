@@ -1,0 +1,3 @@
+ReadyQueue contains the structure and relevant function of ready list.
+straux contains some auxilary string function.
+The file passing to exec can be sparse i.e. the blank line in the file doesn't matter
